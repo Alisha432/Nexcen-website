@@ -1,0 +1,10 @@
+.root{
+    --primarycolor:#4CAF4F ;
+
+}
+
+.greenbtn{
+    background-color: #4CAF4F;
+    color: white;
+    font-family: robbto;
+}
