@@ -1,5 +1,6 @@
 .root{
     --primarycolor:#4CAF4F ;
+    --secondarycolor: #F5F7FA;
 
 }
 
@@ -8,3 +9,16 @@
     color: white;
     font-family: robbto;
 }
+
+
+/* Hero section start */
+.fulid{
+    background-color: #F5F7FA;
+}
+
+.body{
+ color: #4CAF4F !important;
+}
+  
+ 
+/* Hero section end */
