@@ -73,11 +73,28 @@
 /* Feature section start */
 
 .nex{
-    width: 100%;
-    font-size: 30%;
+    width: 43%;
+    font-size: 20%;
 }
-/* Feature section end  */
 
+/* Feature  section end */
+
+
+/*Libero section start  */
+.suscipit{
+    font-size:30px;
+
+}
+
+.btn-green{
+background-color: #4CAF4F;
+  
+}
+  
+
+
+
+  
 
 @media screen and (min-width:576px) {
     .minimize{
