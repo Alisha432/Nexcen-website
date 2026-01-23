@@ -27,13 +27,7 @@
 /* Capaines  sec start  */
 
 
-@media screen and (min-width:579px) {
-    
-}
 
-.minimize{
-    width: 7%;
-}
 
 /* Capaines sec end */
 
@@ -58,4 +52,74 @@
     width: 25%;
 }
 /* Commiunity sec end */
+
+
+
+/* Spending sec start */
+
+
+.lazy{
+    width: 92%;
+}
+
+.word{
+    width: 53%;
+}
+
+/* Spending sec end */
+
+
+
+/* Feature section start */
+
+.nex{
+    width: 100%;
+    font-size: 30%;
+}
+/* Feature section end  */
+
+
+@media screen and (min-width:576px) {
+    .minimize{
+    width: 7%;
+}
+}
+
+
+@media screen and (min-width: 768px) and (max-width:991px) {
+     .little{
+        text-align: center;
+        width: 100%;
+     }
+}
+
+
+
+
+
+
+
+@media screen and (max-width:991px) {
+    
+  
+    
+    /* Commiunity sec start */
+
+     .little{
+        text-align: center;
+     }
+
+    .point{
+        font-size: 35px;
+    }
+    .true{
+         order: 1;
+    }
+
+    .fix{
+        width: 100%;
+        order: 2;
+       
+    }
+}
 
